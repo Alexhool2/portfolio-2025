@@ -1,0 +1,139 @@
+{
+  "en": {
+    "portfolio": "Moura Alex portfolio",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "home": {
+      "title": "Hi, I'm",
+      "firstName": "Alex",
+      "lastName": "Moura",
+      "viewWork": "View My Work",
+      "subtitle": "Building smart solutions and delivering real value to clients."
+    },
+    "about": {
+      "aboutText": "About",
+      "me":"Me",
+      "title": "Full Stack Web Developer",
+      "paragraph1": "Having worked in multiple customer service roles, I've developed a strong ability to empathize with users and translate their needs into effective, user-centric solutions.",
+      "paragraph2": "I enjoy solving problems and learning new things. I like creating web experiences that really connect with people.",
+      "getInTouch": "Get in Touch",
+      "downloadCV": "Download CV",
+      "workHistory": "Work History",
+      "webDevelopment": "Web Development",
+      "text1": "Creating responsive websites and web applications with modern frameworks.",
+      "fullStack": "Full Stack Applications",
+      "text2": "Creating full stack apps that connect data handling to user-friendly interfaces, delivering a seamless experience that delights customers.",
+      "negotiation": "Negotiation",
+      "text3": "Listening carefully to clients and understanding their needs to deliver exactly what they want."
+    },
+    "skills": {
+      "title": "Skills",
+      "all": "All",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools"
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "subtitle": "Here are some of my key projects that showcase my skills and experience delivering real-world solutions.",
+      "viewGithub": "Check my Github",
+      "items": {
+        "1": {
+          "title": "E-commerce website",
+          "description": "E-commerce website built with React and Tailwind."
+        },
+        "2": {
+          "title": "Portfolio Website template",
+          "description": "This project show some of my done projects using React."
+        },
+        "3": {
+          "title": "Timecard Application",
+          "description": "Full-featured working shifts clock with authentication, admin controls and reports."
+        }
+      }
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Have a new project in mind? Let's talk about it.",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "address": "Aichi-ken, Toyota, Japan",
+      "connect": "Connect with me"
+    }
+  },
+  "ja": {
+    "portfolio": "モウラ　アレックス ポートフォリオ",
+    "nav": {
+      "home": "ホーム",
+      "about": "私について",
+      "skills": "スキル",
+      "projects": "プロジェクト",
+      "contact": "お問い合わせ"
+    },
+    "home": {
+      "title": "こんにちは、",
+      "firstName": "モウラ",
+      "lastName": "アレックス",
+      "viewWork": "作品を見る",
+      "subtitle": "スマートな解決策を構築し、クライアントに実際の価値を提供します。"
+    },
+    "about": {
+      "aboutText": "私",
+      "me":"について",
+      "title": "フルスタック ウェブ開発者",
+      "paragraph1": "複数のカスタマーサービス業務に携わった経験から、ユーザーの気持ちを理解し、ニーズを効果的でユーザー中心のソリューションに変換する力を身につけました。",
+      "paragraph2": "問題を解決することや新しいことを学ぶのが好きで、人とつながるようなウェブ体験を作ることにやりがいを感じています。",
+      "getInTouch": "お問い合わせ",
+      "downloadCV": "履歴書",
+      "workHistory": "職務経歴",
+      "webDevelopment": "ウェブ開発",
+      "text1": "モダンなフレームワークを使って、レスポンシブなウェブサイトやウェブアプリケーションを作成します。",
+      "fullStack": "フルスタックアプリケーション",
+      "text2": "データ処理と使いやすいインターフェースをつなぎ、シームレスで魅力的なユーザー体験を提供するフルスタックアプリを開発します。",
+      "negotiation": "ヒアリング・交渉",
+      "text3": "お客様の声にしっかり耳を傾け、ニーズを正確に把握し、期待に応える提案・開発を行います。"
+    },
+    "skills": {
+      "title": "スキル",
+      "all": "すべて",
+      "frontend": "フロントエンド",
+      "backend": "バックエンド",
+      "tools": "ツール"
+    },
+    "projects": {
+      "title": "主なプロジェクト",
+      "subtitle": "実際のソリューションを提供した経験とスキルを示す主要なプロジェクトをご紹介します。",
+      "viewGithub": "GitHubをチェック",
+      "items": {
+        "1": {
+          "title": "ECサイト",
+          "description": "ReactとTailwindを使用して構築されたECサイト。"
+        },
+        "2": {
+          "title": "ポートフォリオウェブサイトテンプレート",
+          "description": "Reactを使用して作成した過去のプロジェクトを紹介するサイト。"
+        },
+        "3": {
+          "title": "タイムカードアプリケーション",
+          "description": "認証、管理者コントロール、レポート機能を備えた勤務シフト管理システム。"
+        }
+      }
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "subtitle": "新しいプロジェクトをお考えですか？ぜひご相談ください。",
+      "email": "メール",
+      "phone": "電話番号",
+      "location": "所在地",
+      "address": "愛知県豊田市",
+      "connect": "SNSでつながる"
+    }
+  }
+}
+
