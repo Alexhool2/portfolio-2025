@@ -24,7 +24,7 @@ export const AboutSection = () => {
               {/* para colocar o cv no href para download */}
               <a
                 target="_blank"
-                href="https://drive.google.com/file/d/1kbFPtF_A3d_vgPsv7aXiQ5J7i0gDx9dQ/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1tpROSp0fbWUSVB4tVfXuTrWhwLAB-NM3/view?usp=drive_link"
                 className="px-3 py-2 rounded-full border border-primary2 text-primary2 hover:bg-primary2/10 transition-colors duration-300"
               >
                 {t("about.downloadCV")}
