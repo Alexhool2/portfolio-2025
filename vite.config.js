@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename)
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/portfolio-2025/",
+  base: "/portfolio-2025",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),

@@ -21,7 +21,7 @@ export const ProjectsSection = () => {
             >
               <div className="h-48 overflow-hidden">
                 <img
-                  src={`/projects/project${id}.png`}
+                  src={`/portfolio-2025/projects/project${id}.png`}
                   alt={t(`projects.items.${id}.title`)}
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                 />
